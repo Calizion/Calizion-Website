@@ -99,7 +99,7 @@ header a:hover {
 }
 #newsletter form {
   float: right;
-  margin-top: 15px;
+  margin-bottom: 17px;
 }
 #newsletter input[type="email"] {
   padding: 5px;
@@ -173,13 +173,13 @@ form {
 /* Working on sidebar */
 aside#sidebar {
   float: right;
-  width: 30%;
-  margin-top: 10px;
+  width: 20%;
+  margin: auto;
 }
 
 aside#sidebar .quote input,
 textarea {
-  width: 100%;
+  width: 80%;
   padding: 10px;
 }
 
@@ -212,7 +212,7 @@ ul#services li {
 
 ul li h3 {
   color: whitesmoke;
-  font-size: 20px;
+  font-size: 25px;
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 h1 {
@@ -227,11 +227,12 @@ h1 {
 
 /*Working on footer*/
 footer {
-  padding: 20px;
-  margin-top: 20px;
+  padding: 5px;
+  margin-top: 5px;
   color: white;
   text-align: center;
-  background-color: #354234;
+  background-color: blue;
   width: 90%;
   margin: auto;
+  font-size: 30px;
 }
